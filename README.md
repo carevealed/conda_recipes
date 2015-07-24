@@ -9,9 +9,10 @@ This contains all the data for installing the Python based script for CAVPP and 
     
 2. Install the gui launcher (optional, but highly recommended)
 Open a terminal and type:
-      
-   conda install launcher
-        
+
+```shell
+conda install launcher
+```
 3. Add the following channels to conda:
 
 ```shell
@@ -23,7 +24,9 @@ Conda should be now properly installed and configured to run with CAVPP and CAPS
 
 To open the visual launcher, type the following command in the terminal:
 
-   launcher
+```shell
+launcher
+```
    
 ## IMPORTANT
 **DO NOT RUN LAUNCHER FROM THE ICON ON THE DESKTOP ON A MAC.**
