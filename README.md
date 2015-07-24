@@ -13,10 +13,10 @@ Open a terminal and type:
    conda install launcher
         
 3. Add the following channels to conda:
-   
-   conda config --add channels http://conda.binstar.org/cavpp/
-   conda config --add channels http://conda.binstar.org/henryborchers/
-
+'''sh
+conda config --add channels http://conda.binstar.org/cavpp/
+conda config --add channels http://conda.binstar.org/henryborchers/
+'''
 Conda should be now properly installed and configured to run with CAVPP and CAPS scripts
 
 To open the visual launcher, type the following command in the terminal:
