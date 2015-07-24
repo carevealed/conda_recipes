@@ -24,5 +24,6 @@ To open the visual launcher, type the following command in the terminal:
    laucher
    
 ## IMPORTANT
-DO NOT RUN LAUNCHER FROM THE ICON ON THE DESKTOP ON A MAC.
+**DO NOT RUN LAUNCHER FROM THE ICON ON THE DESKTOP ON A MAC.**
+
 This make Python run in a different way on OSX which currently prevents the scripts from finding certain dependencies.
