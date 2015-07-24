@@ -21,7 +21,7 @@ Conda should be now properly installed and configured to run with CAVPP and CAPS
 
 To open the visual launcher, type the following command in the terminal:
 
-   laucher
+   launcher
    
 ## IMPORTANT
 **DO NOT RUN LAUNCHER FROM THE ICON ON THE DESKTOP ON A MAC.**
