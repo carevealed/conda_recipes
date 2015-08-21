@@ -16,8 +16,8 @@ conda install launcher
 3. Add the following channels to conda:
 
 ```shell
-conda config --add channels http://conda.binstar.org/cavpp/
-conda config --add channels http://conda.binstar.org/henryborchers/
+conda config --add channels http://conda.anaconda.org/cavpp/
+conda config --add channels http://conda.anaconda.org/henryborchers/
 ```
 
 Conda should be now properly installed and configured to run with CAVPP and CAPS scripts
