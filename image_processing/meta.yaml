@@ -17,7 +17,6 @@ requirements:
     - python
     - setuptools
     - pillow
-    - wand >=0.4.1
 
   run:
     - python >=3.4
