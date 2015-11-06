@@ -23,7 +23,7 @@ requirements:
     - python >=3.4
     - pyqt <=5.0
     - pillow
-    - Wand >=0.4.1
+    - wand >=0.4.1
 
 test:
   imports:
